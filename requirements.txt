@@ -12,3 +12,4 @@ requests==2.23.0
 selenium==3.141.0
 urllib3==1.25.9
 
+idna>=3.7 # not directly required, pinned by Snyk to avoid a vulnerability
